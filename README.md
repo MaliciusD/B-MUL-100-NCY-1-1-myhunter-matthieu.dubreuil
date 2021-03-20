@@ -1,1 +1,3 @@
-# B-MUL-100-NCY-1-1-myhunter-matthieu.dubreuil
+# my_hunter
+ 
+ Usage: ./my_hunter
